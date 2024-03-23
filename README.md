@@ -2,6 +2,11 @@
 ## Description
 Simple script that can describe audio files using the openai-whisper model.
 
+## Setup
+- Create virtual environment: ```$ python3 -m venv venv-test```
+- Active virtual environment: ```$ source venv-test/bin/activate```
+- Install dependencies: ```$ pip install -r requirements.txt```
+
 ## Requirements
 - Virtual environment set up correctly
 - ffmpeg installed locally
