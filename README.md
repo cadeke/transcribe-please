@@ -8,8 +8,13 @@ Simple script that can describe audio files using the openai-whisper model.
 - Install dependencies: ```$ pip install -r requirements.txt```
 
 ## Requirements
-- Virtual environment set up correctly
-- ffmpeg installed locally
+- Python and pip installed 
+- ffmpeg installed
+
+## Future improvement
+- Add speaker recognition
+- Turn into web app using Flask
+- Dockerize
 
 ## Credits
 - https://analyzingalpha.com/openai-whisper-python-tutorial
